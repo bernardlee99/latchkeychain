@@ -34,7 +34,7 @@ Components were ordered from DigiKey:
 - 4-CH 2-INPUT OR GATE 14TSSOP (SN74LV32PWR)
 - 3-CH INVERTER SM8 (SN74LVC3G14DCTR)
 - 2.5V Linear Regulator SC70-5 (MIC5365-2.5YC5-TR)
-- 2 x LED
+- 2 x SMD LED
 - 20mm Coin Cell Holder
 - 2 x 150Ohm Resistor 0805
 - 5 x Ceramic Capacitor 1uF 0805
