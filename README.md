@@ -14,6 +14,7 @@ The assembled keychain was given to people of special means to me, including:
 - Reshmika Nair
 
 This PCB is designed in KiCad Version 5.0.2.
+![](pcb-3dview.png)
 
 ---
 
