@@ -1,5 +1,7 @@
 # 1-bit D-latch Keychain
 
+![](pcb-3dview.png)
+
 > How it began?
 
 This project was inspired by a dear friend of mine, Cheah Zi Ting, for her motivation in my pursuit for an Electrical Engineering degree.
@@ -14,7 +16,6 @@ The assembled keychain was given to people of special means to me, including:
 - Reshmika Nair
 
 This PCB is designed in KiCad Version 5.0.2.
-![](pcb-3dview.png)
 
 ---
 
