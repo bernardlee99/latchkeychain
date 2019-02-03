@@ -1,18 +1,5 @@
 # 1-bit D-latch Keychain
 
-> How it began?
-
-This project was inspired by a dear friend of mine, Cheah Zi Ting, for her motivation in my pursuit for an Electrical Engineering degree.
-
-This is also my very first Surface Mount Assembly. Special thanks to Daniel Rogge and Samuel Hansen for the guidance in assembling this keychain.
-
-The assembled keychain was given to people of special means to me, including:
-- Cheah Zi Ting
-- Aston U
-- Ferlina Hong
-- Fairine Lai
-- Reshmika Nair
-
 This PCB is designed in KiCad Version 5.0.2.
 
 ![](pcb-3dview.png)
@@ -96,3 +83,17 @@ I will be explaining my steps very detailed here just in-case someone is new in 
 4. Feel free to toy around, and edit it and mess around. You can always come back to download it if you mess up.
 
 ---
+
+## How it began?
+
+This project was inspired by a dear friend of mine, Cheah Zi Ting, for her motivation in my pursuit for an Electrical Engineering degree.
+
+This is also my very first Surface Mount Assembly. Special thanks to Daniel Rogge and Samuel Hansen for the guidance in assembling this keychain.
+
+The assembled keychain was given to people of special means to me, including:
+- Cheah Zi Ting
+- Aston U
+- Ferlina Hong
+- Fairine Lai
+- Reshmika Nair
+
